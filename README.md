@@ -31,7 +31,7 @@ ___
     The Windows startup folder will open.
 +  Create a **shortcut** to the 'run.cmd' file and **move** it to the **startup folder**
 
-![Autorun](https://im4.ezgif.com/tmp/ezgif-4-9700429ee7.gif)
+![Autorun](/imgs/autorun.gif)
 
 
 ___
